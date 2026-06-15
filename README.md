@@ -11,7 +11,7 @@ This app acts as your automated safety net. It runs silently in the background, 
 
 Because as the official logo says:
 <p align="center">
-  <img src="KianySD_Logo.png" alt="Kiany-SD Official Logo" width="200"/>
+  <img src="KianySD-Logo.png" alt="Kiany-SD Official Logo" width="200"/>
 </p>
 
 ---
